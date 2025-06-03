@@ -1,0 +1,8 @@
+MotorC,4
+Frenos,15
+Ruedas,20
+Faros,18
+MotorH,5
+Asientos,20
+Escape,9
+MotorE,3

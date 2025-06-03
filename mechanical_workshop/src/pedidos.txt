@@ -1,0 +1,11 @@
+Cliente0,Berlina
+Cliente1,Sedán
+Cliente2,SUV
+Cliente3,Deportivo
+Cliente4,Sedán
+Cliente5,SUV
+Cliente6,Deportivo
+Cliente7,Sedán
+Cliente8,SUV
+Cliente9,Deportivo
+Cliente10,Sedán
